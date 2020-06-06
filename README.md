@@ -1,3 +1,11 @@
+Following this 
+(https://scrimba.com/p/pKkkVU3/czN22yC9) - https://scrimba.com/g/greacthooks?utm_source=dev.to&utm_medium=referral&utm_campaign=greacthooks_launch_article
+And this 
+https://www.freecodecamp.org/news/learn-react-hooks-by-building-a-paint-app/
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
